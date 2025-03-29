@@ -1,3 +1,3 @@
-# Machine Learning Course Notebooks
-Jupyter Notebooks for Data Science (Machine Learning) course.  
+# Machine Learning Notebooks
+A collection of notebooks with solutions to various Data Science and Machine Learning problems.
 Check out [my solutions](https://github.com/martishin/kaggle-solutions) for various Kaggle challenges!
